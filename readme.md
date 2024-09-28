@@ -2,11 +2,6 @@
 
 ## Github
 
-:::info
-Git 版控
-Hub 空間
-:::
-
 Python能執行的方式
 1. computer
 2. 網頁 ex: colab
