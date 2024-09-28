@@ -15,6 +15,8 @@ Python能執行的方式
 ```code
 $ git clone https://github.com/stephane/libmodbus.git
 ```
+![image](https://github.com/user-attachments/assets/efc0c304-5232-49ca-92a6-9a5dd9942e65)
+
 ![image](https://hackmd.io/_uploads/rkfPaGBCA.png)
 
 ![image](https://hackmd.io/_uploads/B1a93fBAA.png)
